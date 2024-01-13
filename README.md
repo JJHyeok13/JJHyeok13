@@ -27,6 +27,9 @@
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJHyeok13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 📬 Contacts
 
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jjinh99@naver.com)](mailto:jjinh99@naver.com)
