@@ -20,6 +20,7 @@
 ![typescript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![expo](https://img.shields.io/badge/expo-white.svg?&style=for-the-badge&logo=expo&logoColor=1C2024)
+![react-query](https://img.shields.io/badge/reactquery-20232a.svg?&style=for-the-badge&logo=expo&logoColor=FF4154)
 
 **Tools**
 
